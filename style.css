@@ -1,0 +1,372 @@
+.firstbox{
+    background-color: rgb(222, 220, 220);
+   display: flex;
+   padding: 10px;
+   padding-top: 0;
+   padding-bottom: 0;
+}
+#name{
+    color: red;
+    
+}
+.list{
+    padding-right: 5px;
+    
+}
+ul li {
+    display: inline;
+    justify-content: end;
+}
+#list{
+    padding-left: 1100px;
+    justify-content: space-between;
+
+}
+.secondbox{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    
+}
+.firstline{
+    text-decoration: line-through;
+    margin-left: 60px;
+    
+}
+.thirdbox{
+    background-color: rgb(222, 220, 220);
+    padding: 10px;
+}
+.solidname{
+    padding-left: 50px;
+    padding-top: 10px;
+    font-size: 25px;
+}
+.context{
+    padding-left: 50px;
+    padding-bottom: 10px;
+}
+.fourthbox{
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+    color: white;
+
+}
+.shape{
+    height: 3px;
+    background-color: white;
+    margin-right: 500px;
+    margin-left: 500px;
+    
+}
+.a{
+    color: black;
+    background-color: white;
+    width: 200px;
+    height: 200px;
+    border-radius: 10%;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 40px;
+    margin-right: 300px;
+    
+}
+.a svg{
+    width: 30px;
+    height: 30px;
+    background-color: brown;
+    border-radius: 50%;
+    padding: 0px;
+}
+.b{
+    color: black;
+    background-color: white;
+    width: 200px;
+    height: 200px;
+    border-radius: 10%;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 50px;
+    
+}
+.b svg{
+    width: 30px;
+    height: 30px;
+    background-color: brown;
+    border-radius: 50%;
+    padding: 0px;
+}
+.c{
+    color: black;
+    background-color: white;
+    width: 200px;
+    height: 200px;
+    border-radius: 10%;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 50px;
+    margin-left :300px;;
+}
+.c svg{
+    width: 30px;
+    height: 30px;
+    background-color: brown;
+    border-radius: 50%;
+    padding: 0px;
+}
+.fifthbox{
+    background-color: black;
+    height: 350px;
+    text-align: center;
+    color: white;
+
+}
+.shape1{
+    height: 3px;
+    background-color: white;
+    margin-right: 500px;
+    margin-left: 500px;
+    
+}
+.d{
+    color: black;
+    background-color: white;
+    width: 200px;
+    height: 200px;
+    border-radius: 10%;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 40px;
+    margin-right: 300px;
+    
+}
+.d svg{
+    width: 30px;
+    height: 30px;
+    background-color: brown;
+    border-radius: 50%;
+    padding: 0px;
+}
+.e{
+    color: black;
+    background-color: white;
+    width: 200px;
+    height: 200px;
+    border-radius: 10%;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 50px;
+    
+}
+.e svg{
+    width: 30px;
+    height: 30px;
+    background-color: brown;
+    border-radius: 50%;
+    padding: 0px;
+}
+.f{
+    color: black;
+    background-color: white;
+    width: 200px;
+    height: 200px;
+    border-radius: 10%;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 50px;
+    margin-left :300px;;
+}
+.f svg{
+    width: 30px;
+    height: 30px;
+    background-color: brown;
+    border-radius: 50%;
+    padding: 0px;
+}
+
+.sixthbox{
+    margin-left: 10px;
+    
+} 
+.header{
+    text-align: center;
+}
+.s1
+{
+    margin-top: 10px;
+    background-color: red;
+    height: 10px;
+    width:350px;
+    
+}
+.q1
+{
+    margin-top: 10px;
+    background-color:grey;
+    height: 10px;
+    width:380px;
+}
+.s2
+{
+    margin-top: 10px;
+    background-color: red;
+    height: 10px;
+    width:280px;
+    
+}
+.q2
+{
+    margin-top: 10px;
+    background-color:grey;
+    height: 10px;
+    width:380px;
+}
+.s3
+{
+    margin-top: 10px;
+    background-color: red;
+    height: 10px;
+    width:250px;
+    
+}
+.q3
+{
+    margin-top: 10px;
+    background-color:grey;
+    height: 10px;
+    width:380px;
+}
+.s4
+{
+    margin-top: 10px;
+    background-color: red;
+    height: 10px;
+    width:350px;
+    
+}
+.q4
+{
+    margin-top: 10px;
+    background-color:grey;
+    height: 10px;
+    width:380px;
+}
+.s5
+{
+    margin-top: 10px;
+    background-color: red;
+    height: 10px;
+    width:320px;
+    
+}
+.q5
+{
+    margin-top: 10px;
+    background-color:grey;
+    height: 10px;
+    width:380px;
+}
+.w1
+{
+    margin-top: 10px;
+    background-color: red;
+    height: 10px;
+    width:350px;
+    
+}
+.a1
+{
+    margin-top: 10px;
+    background-color:grey;
+    height: 10px;
+    width:380px;
+}
+.w2
+{
+    margin-top: 10px;
+    background-color: red;
+    height: 10px;
+    width:370px;
+    
+}
+.a2
+{
+    margin-top: 10px;
+    background-color:grey;
+    height: 10px;
+    width:380px;
+}
+.b3
+{
+    margin-top: 10px;
+    background-color: red;
+    height: 10px;
+    width:220px;
+    
+}
+.a3
+{
+    margin-top: 10px;
+    background-color:grey;
+    height: 10px;
+    width:380px;
+}
+.b4
+{
+    margin-top: 10px;
+    background-color: red;
+    height: 10px;
+    width:150px;
+    
+}
+.a4
+{
+    margin-top: 10px;
+    background-color:grey;
+    height: 10px;
+    width:380px;
+}
+.b5
+{
+    margin-top: 10px;
+    background-color: red;
+    height: 10px;
+    width:120px;
+    
+}
+.a5
+{
+    margin-top: 10px;
+    background-color:grey;
+    height: 10px;
+    width:380px;
+}
+.box1{
+    margin-left: 600px;
+}
+.b1{
+    display: flex;  
+}
+.box h3 {
+    text-align: center;
+}
+.box1 h3{
+    text-align: center;
+
+}
+#seventhbox{
+    
+    padding: 0px;
+    background-color: black;
+}
+.con{
+    text-align: center;
+    color: white;
+}
+.b2{ 
+    height: 200px;
+    text-align: center;
+    padding-left: 0px;
+}
